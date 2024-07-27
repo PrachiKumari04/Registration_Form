@@ -104,10 +104,6 @@ registration-form/
 
 Contributions are always welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
----
 
-Feel free to customize this README file based on your specific requirements and project details.
