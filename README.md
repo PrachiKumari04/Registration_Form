@@ -1,6 +1,3 @@
-Sure, here's a sample README file for your project:
-
----
 
 # Registration Form with Node.js and MongoDB
 
